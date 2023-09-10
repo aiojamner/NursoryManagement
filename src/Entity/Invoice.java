@@ -23,6 +23,10 @@ public class Invoice {
 	public void setGstNo(String gstNo) {
 		this.gstNo = gstNo;
 	}
+	public Invoice() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	
 	
 
